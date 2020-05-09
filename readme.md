@@ -3,5 +3,11 @@
 Start server with:
 
 ```
-deno run --allow-net src/server.ts
+make run
+```
+
+Run tests with:
+
+```
+make test
 ```
